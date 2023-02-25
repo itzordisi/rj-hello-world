@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=devtice-width, initial-scale=1.0"
+  <title>Contact Us</title>
+  <meta name="desciption" content="working on my first webpage">
+</head>
+<body>
+
+  <div class="nav-menu">
+    <a href="index.html">home</a>
+    <a href="about.html">about us</a>
+    <a href="contact.html">contact us</a>
+    <a href="products.html">Products</a>      
+  </div>
+  
+  <img src="" alt="img">
+  <h1>Contact Page</h1>
+  <p>Working on my wegpage</p>
+</body>
+
+</html>
